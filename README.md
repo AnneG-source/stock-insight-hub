@@ -35,4 +35,5 @@
 
 ## 📝 À propos
 Ce projet a été développé pour démontrer ma capacité à intégrer des données financières réelles dans un flux de travail automatisé et à fournir une interface utilisateur orientée "métier".
+
 Source : Cette application a été développée avec Lovable.dev
