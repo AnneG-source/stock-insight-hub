@@ -2,17 +2,11 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: [https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID](https://preview--ticker-ai-advisor.lovable.app/?__lovable_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMVp3MXNGbmRkbFllWkVQSGVuaGJHbnBnYmNGMyIsInByb2plY3RfaWQiOiIxYjU4M2MzNi1jMjk3LTQwNTAtOGVmNS0zMWZmNmYyYjRlOTkiLCJub25jZSI6IjU5NGMwNzJkZmVkMDFlMmMzMjQ5ODM0OGRlMTJiNmNjIiwiaXNzIjoibG92YWJsZS1hcGkiLCJzdWIiOiIxYjU4M2MzNi1jMjk3LTQwNTAtOGVmNS0zMWZmNmYyYjRlOTkiLCJhdWQiOlsibG92YWJsZS1hcHAiXSwiZXhwIjoxNzY3ODk3NTQyLCJuYmYiOjE3NjcyOTI3NDIsImlhdCI6MTc2NzI5Mjc0Mn0.PA9ATUSwmw9ADTaXfbQFFC8ORwMCEF0vJ1fqcqXtVzI)
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the https://[lovable.dev/projects/REPLACE_WITH_PROJECT_ID](https://preview--ticker-ai-advisor.lovable.app/?__lovable_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMVp3MXNGbmRkbFllWkVQSGVuaGJHbnBnYmNGMyIsInByb2plY3RfaWQiOiIxYjU4M2MzNi1jMjk3LTQwNTAtOGVmNS0zMWZmNmYyYjRlOTkiLCJub25jZSI6IjU5NGMwNzJkZmVkMDFlMmMzMjQ5ODM0OGRlMTJiNmNjIiwiaXNzIjoibG92YWJsZS1hcGkiLCJzdWIiOiIxYjU4M2MzNi1jMjk3LTQwNTAtOGVmNS0zMWZmNmYyYjRlOTkiLCJhdWQiOlsibG92YWJsZS1hcHAiXSwiZXhwIjoxNzY3ODk3NTQyLCJuYmYiOjE3NjcyOTI3NDIsImlhdCI6MTc2NzI5Mjc0Mn0.PA9ATUSwmw9ADTaXfbQFFC8ORwMCEF0vJ1fqcqXtVzI and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
