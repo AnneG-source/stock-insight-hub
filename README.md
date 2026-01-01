@@ -29,9 +29,17 @@
 
 ## ⚙️ Installation & Utilisation
 
-1. **Accès à l'application en Prewiew - Public :**
+**Accès à l'application en Prewiew - Public :**
    (https://ticker-ai-advisor.lovable.app)
 
 ## 📝 À propos
 Ce projet a été développé pour démontrer ma capacité à intégrer des données financières réelles dans un flux de travail automatisé et à fournir une interface utilisateur orientée "métier".
 
+---
+## 🚀 Évolutions à venir (Roadmap)
+
+Le projet est en développement continu. Voici les fonctionnalités prévues prochainement :
+
+- [ ] **Graphiques Interactifs :** L’utilisateur saisit une action soit par nom (ex : “Tesla”, “LVMH”) soit par ticker (“TSLA”, “MC.PA”). Si l’utilisateur donne le nom, l’app utilisera l’API ChatGPT pour déterminer automatiquement le ticker le plus probable (avec la place boursière principale).
+
+> **Note :** Si vous avez des suggestions ou des idées d'indicateurs, n'hésitez pas à ouvrir une [Issue](https://github.com/AnneG-source/stock-insight-hub/issues) !
