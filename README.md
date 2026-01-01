@@ -40,11 +40,12 @@ Ce projet a été développé pour démontrer ma capacité à intégrer des donn
 
 Le projet est en développement continu. Voici les fonctionnalités prévues prochainement :
 
-- [ ] **Graphiques Interactifs :** L’utilisateur saisit une action soit par nom (ex : “Tesla”, “LVMH”) soit par ticker (“TSLA”, “MC.PA”). Si l’utilisateur donne le nom, l’app utilisera l’API ChatGPT pour déterminer automatiquement le ticker le plus probable (avec la place boursière principale).
+- [ ] **Graphiques Interactifs :** L’utilisateur saisit une action soit par nom (ex : “Tesla”, “LVMH”) soit par ticker (“TSLA”, “MC.PA”)à partir d'une liste pré-déterminée et non exhaustive.
+L'évolution à venir permettra si l’utilisateur donne le nom, l’app utilisera l’API ChatGPT pour déterminer automatiquement le ticker le plus probable (avec la place boursière principale).
 
 
 
-## 🤖✨ Mise à jour disponible :
+## 🤖✨ Mises à jour disponibles :
 2026 : la saisie accepte désormais un nom d’entreprise (ex. “Total”, “BNP”) en plus du ticker. 
 L’application effectue une recherche automatique du ticker via Yahoo Finance Search 🔎📈 (avec proxy en développement pour éviter les soucis CORS 🌐🛡️), puis lance l’analyse sur le ticker détecté. 
 
