@@ -42,4 +42,10 @@ Le projet est en développement continu. Voici les fonctionnalités prévues pro
 
 - [ ] **Graphiques Interactifs :** L’utilisateur saisit une action soit par nom (ex : “Tesla”, “LVMH”) soit par ticker (“TSLA”, “MC.PA”). Si l’utilisateur donne le nom, l’app utilisera l’API ChatGPT pour déterminer automatiquement le ticker le plus probable (avec la place boursière principale).
 
+
+
+## 🤖✨ Mise à jour disponible :
+2026 : la saisie accepte désormais un nom d’entreprise (ex. “Total”, “BNP”) en plus du ticker. 
+L’application effectue une recherche automatique du ticker via Yahoo Finance Search 🔎📈 (avec proxy en développement pour éviter les soucis CORS 🌐🛡️), puis lance l’analyse sur le ticker détecté. 
+
 > **Note :** Si vous avez des suggestions ou des idées d'indicateurs, n'hésitez pas à ouvrir une [Issue](https://github.com/AnneG-source/stock-insight-hub/issues) !
