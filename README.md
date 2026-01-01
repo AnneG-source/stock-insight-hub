@@ -16,7 +16,7 @@
 - **Langage :** Python 🐍
 - **Source de Données :** [yfinance](https://pypi.org/project/yfinance/) (Yahoo Finance API)
 - **Analyse de Données :** Pandas / NumPy
-- **Interface :** [Indiquez ici si c'est Streamlit, Flask ou Console]
+- **Interface :** Lovable.dev
 
 ## 📊 Aperçu des Indicateurs Calculés
 
@@ -29,11 +29,9 @@
 
 ## ⚙️ Installation & Utilisation
 
-1. **Cloner le projet :**
-   ```bash
-   git clone [https://github.com/AnneG-source/stock-insight-hub.git](https://github.com/AnneG-source/stock-insight-hub.git)
+1. **Accès à l'application en Prewiew - Public :**
+   (https://ticker-ai-advisor.lovable.app)
 
 ## 📝 À propos
 Ce projet a été développé pour démontrer ma capacité à intégrer des données financières réelles dans un flux de travail automatisé et à fournir une interface utilisateur orientée "métier".
 
-Source : Cette application a été développée avec Lovable.dev
